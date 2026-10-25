@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Editors and operating systems
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Credentials and licenses
+*.lic
+.env
+.env.*
+!.env.example
+
+# Generated optimizer outputs
+Results_*/
+results/
+outputs/
+logs/
+*.log
+
+# Curated case-study outputs are intentionally versioned.
+!examples/**/results/
+!examples/**/results/**
+
+# Large pooled analyses and generated figures
+segment_level_pooled.csv
+*.png
+*.pdf
+*.svg
+*.emf
+
+# Curated, intentionally versioned case-study figures.
+!examples/**/*.png
+
+# GIS exports and proprietary project data
+*.gdb/
+*.geodatabase/
+*.aprx
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.sbn
+*.sbx
+*.gpkg
+*.zip
+

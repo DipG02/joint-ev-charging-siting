@@ -1,0 +1,12 @@
+# Python 3.10+ runtime dependencies.
+# A valid Gurobi license is also required; installing gurobipy is not a license.
+geopandas>=1.0
+gurobipy==13.0.1
+matplotlib>=3.8
+numpy>=1.26
+pandas>=2.1
+SALib>=1.5
+scipy>=1.11
+shapely>=2.0
+statsmodels>=0.14
+

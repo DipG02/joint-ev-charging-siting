@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "If you use this software, workflow, or processed data, please cite the accompanying paper."
+title: "Joint Dynamic and Stationary EV Charging Siting Toolkit"
+type: software
+version: 0.1.0
+authors:
+  - family-names: Ghose
+    given-names: Dipanjan
+    affiliation: "Elmore Family School of Electrical and Computer Engineering, Purdue University"
+    email: dghose@purdue.edu
+  - family-names: Qin
+    given-names: Junjie
+    affiliation: "Edwardson School of Industrial Engineering, Purdue University"
+    email: jq@purdue.edu
+  - family-names: Sivaranjani
+    given-names: S.
+    affiliation: "Elmore Family School of Electrical and Computer Engineering, Purdue University"
+    email: sseetha@purdue.edu
+keywords:
+  - dynamic wireless charging
+  - electric vehicles
+  - charging infrastructure
+  - geospatial optimization
+  - mixed-integer programming
+  - transportation electrification
+preferred-citation:
+  type: article
+  title: "Rethinking electrified transportation: The case for dynamic wireless charging"
+  authors:
+    - family-names: Ghose
+      given-names: Dipanjan
+    - family-names: Qin
+      given-names: Junjie
+    - family-names: Sivaranjani
+      given-names: S.
+  year: 2026
+  collection-title: arXiv
+  identifiers:
+    - type: other
+      value: "arXiv:2610.18708v1"
+  url: "https://arxiv.org/abs/2610.18708"
+
