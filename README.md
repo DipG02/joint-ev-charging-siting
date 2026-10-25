@@ -1,4 +1,4 @@
-# Joint Dynamic and Stationary EV Charging Siting Toolkit
+# Joint Dynamic Wireless and Stationary EV Charging Station Siting Toolkit
 
 Research software and curated geospatial inputs for jointly planning dynamic wireless charging (DWC), stationary charging stations (SCS), and their distribution-grid connections on the contiguous U.S. Interstate Highway System.
 
