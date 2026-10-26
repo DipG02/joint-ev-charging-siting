@@ -166,8 +166,8 @@ See [docs/PUBLIC_DATA_SOURCES.md](docs/PUBLIC_DATA_SOURCES.md) and [DATA_LICENSE
 ## Authors and acknowledgment
 
 - Dipanjan Ghose — Elmore Family School of Electrical and Computer Engineering, Purdue University
-- Junjie Qin — Edwardson School of Industrial Engineering, Purdue University
-- S. Sivaranjani — Elmore Family School of Electrical and Computer Engineering, Purdue University
+- Junjie Qin — Elmore Family School of Electrical and Computer Engineering, Purdue University
+- S. Sivaranjani — Edwardson School of Industrial Engineering, Purdue University
 
 Correspondence: S. Sivaranjani (`sseetha@purdue.edu`).
 
