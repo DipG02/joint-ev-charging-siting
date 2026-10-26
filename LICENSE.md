@@ -23,9 +23,9 @@ Redistribution for permitted academic purposes is allowed only under these same 
 
 ## 3. Commercial use
 
-Commercial use is not permitted without prior written permission. This includes use in a commercial product or service, paid consulting, commercial deployment, or internal use by a for-profit organization for commercial advantage.
+Commercial use requires a license arranged through the Purdue Office of Technology Commercialization. This includes use in a commercial product or service, paid consulting, commercial deployment, or internal use by a for-profit organization for commercial advantage.
 
-For commercial licensing inquiries, contact S. Sivaranjani at `sseetha@purdue.edu`.
+To license this work for commercial use through the Purdue Office of Technology Commercialization, please contact the authors: Dipanjan Ghose (`dghose@purdue.edu`), Junjie Qin (`jq@purdue.edu`), and S. Sivaranjani (`sseetha@purdue.edu`).
 
 If it is unclear whether a proposed use is commercial, request permission before using the software.
 

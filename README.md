@@ -179,4 +179,4 @@ If you use the model, workflow, or processed inputs, cite the paper above. Machi
 
 ## License
 
-The code and documentation may be used for non-commercial academic research, teaching, and reproduction of the accompanying paper under the [Academic and Non-Commercial Use License](LICENSE.md). Commercial use requires prior written permission. Included processed data retain the attribution and source-specific conditions described in [DATA_LICENSE.md](DATA_LICENSE.md).
+The code and documentation may be used for non-commercial academic research, teaching, and reproduction of the accompanying paper under the [Academic and Non-Commercial Use License](LICENSE.md). To license this work for commercial use through the Purdue Office of Technology Commercialization, please contact the authors: Dipanjan Ghose (`dghose@purdue.edu`), Junjie Qin (`jq@purdue.edu`), and S. Sivaranjani (`sseetha@purdue.edu`). Included processed data retain the attribution and source-specific conditions described in [DATA_LICENSE.md](DATA_LICENSE.md).
